@@ -58,7 +58,8 @@ a:hover {
 }
 @media (min-width: 768px) {
 
-      background: url('https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg') no-repeat center/cover;
+      background: url('../assets/wedding-landing-cover.jpg') no-repeat center/cover;
+
 
   }
 
